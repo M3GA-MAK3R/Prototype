@@ -13,4 +13,3 @@ Web Crafting Classes
 > Hands-on science activities
 > Khanmigo for educators
 
-Replit CODESPACE: replit.com/@StephenBrown/Prototype
