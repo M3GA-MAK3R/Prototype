@@ -1,4 +1,3 @@
-https://www.khanacademy.org/join/W75SP7H2
 Class CODE: W75SP7H2
 https://s3.amazonaws.com/KA-share/ClassCodes/ClassCodes-EN.pdf
 
