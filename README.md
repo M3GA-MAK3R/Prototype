@@ -66,7 +66,9 @@ http://canopy.link/dz/launch_ec2_instance.html ### Im REACHING w/ this link, but
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://tails.net/about/index.en.html # OS for Ghost machines. . .
-
+https://partners.rokland.com/ 
+https://meshtastic.org/docs/hardware/devices/heltec-automation/
+https://meshtastic.org/docs/hardware/antennas/lora-antenna/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 http://mainsailos.local                 # 3D-printing stuff #
