@@ -5,7 +5,11 @@ Web Crafting Classes
 > Computer programming - JavaScript and the web
 > AI for education
 > Growth mindset
-> Internet safety
+#####
+> Internet safety 
+  > https://www.vulnhub.com/entry/matrix-breakout-2-morpheus,757/ 
+  > https://www.vulnhub.com/lab/
+#####
 > Financial Literacy
 > Social media literacy
 > Entrepreneurship
@@ -22,6 +26,8 @@ Core Features:
 - Company information display section
 - Registration data storage in PostgreSQL
 - Self-hosting compatibility with Twingate/Sandstorm.io integration
+  -  https://www.twingate.com/docs/linux
+  -  https://www.twingate.com/docs/linux-headless
 - Confirmation message after successful registration
 - Basic analytics for signup tracking
 
@@ -29,3 +35,4 @@ UI/Style:
 - Corporate-focused design with strong emphasis on trust signals
 - Strategic whitespace and structured information hierarchy
 - Bold typography paired with subtle micro-interactions for form elements
+
