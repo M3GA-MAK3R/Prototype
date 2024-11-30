@@ -70,8 +70,11 @@ https://tails.net/about/index.en.html # OS for Ghost machines. . .
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 http://mainsailos.local                 # 3D-printing stuff #
+
 https://docs-os.mainsail.xyz/getting-started/first-boot#mainsail-specific-klipper-config
 
 https://www.twingate.com/docs/homelab-personal-use-case ### For the HQ Camz
+
 https://www.twingate.com/blog/raspberry-pi-home-assistant?_gl=1*1h9tn4*_gcl_au*MTg2MDM5OTQ5MS4xNzMyOTM5ODQ0*_ga*MTYzOTQwOTYyLjE3MzI5Mzk4NDU.*_ga_NRCH9G3ZB3*MTczMjkzOTg0NS4xLjEuMTczMjk0Mzg2Ni4wLjAuNTMzOTYyMzAx*_fplc*UyUyRnpBMkV2eWduakFSWUtzVkRYUVdQVUREOTlvMVNkUmglMkZVcGo1aHpmbUVyd29Zc3hNT05NenNUaTJhU2ZqQzVJVmRsMDRSJTJCMDZrRmVZcXVHWXJTakFtZjJBJTJGSzJIQmVOUyUyRmNQb1hOSW1EeTV5Z2Q4aTJhTmpFNVpwb1VDUSUzRCUzRA.
+
 https://www.twingate.com/blog/it-support-for-parents ######### https://www.twingate.com/blog/slcgp-guide ############
