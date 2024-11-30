@@ -28,6 +28,7 @@ Core Features:
 - Self-hosting compatibility with Twingate/Sandstorm.io integration
   -  https://www.twingate.com/docs/linux
   -  https://www.twingate.com/docs/linux-headless
+  -  https://www.releases.ubuntu.com/22.04/ # For the Linux ISO file 4 Sandstorm to run on . . . whatever happens, happens and I know why, NOW!
 - Confirmation message after successful registration
 - Basic analytics for signup tracking
 
