@@ -82,10 +82,12 @@ https://www.twingate.com/blog/raspberry-pi-home-assistant?_gl=1*1h9tn4*_gcl_au*M
 https://www.twingate.com/blog/it-support-for-parents ######### https://www.twingate.com/blog/slcgp-guide ############
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://nodeschool.io/
 
 Two weeks. Perfectly structured.
 Build a real prototype.
 14 Day Plan
+
 Session 1
 Kickoff (90 minutes)
 Introduction to the program – get acquainted with the design process, Figma, and helpful resources. Learn about the mobile and web app design process.
