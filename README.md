@@ -69,6 +69,7 @@ https://tails.net/about/index.en.html # OS for Ghost machines. . .
 https://partners.rokland.com/ 
 https://meshtastic.org/docs/hardware/devices/heltec-automation/
 https://meshtastic.org/docs/hardware/antennas/lora-antenna/
+https://meshtastic.org/docs/development/documentation/local-dev/ (SELF HOSTED!!! (ADD TWINGATE?))
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 http://mainsailos.local                 # 3D-printing stuff #
