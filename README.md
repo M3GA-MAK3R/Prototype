@@ -7,7 +7,6 @@ Web Crafting Classes
 > Growth mindset
 #####
 > Internet safety 
-  > https://www.vulnhub.com/entry/matrix-breakout-2-morpheus,757/ 
   > https://www.vulnhub.com/lab/
 #####
 > Financial Literacy
@@ -49,7 +48,9 @@ https://stephen369.twingate.com/networks/overview
 https://github.com/marketplace/actions/connect-to-twingate
 https://www.twingate.com/docs/ip-based-access-use-case
 http://canopy.link/dz/launch_ec2_instance.html ### Im REACHING w/ this link, but it could be insightful to TWINGATE set-up. ###
-
+https://supabase.com/pricing ### Look in the favorits STOREAGE!!!
+https://supabase.com/blog/supabase-ai-assistant-v2
+https://www.digitalbrainbase.com/t/decentralizing-ai-what-why-how/177 ### DIGITAL BRAIN ### https://youtu.be/oNkEB3fjAHw?si=smRZEKquT-F8Oqkq 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hopefully this gets it to work with replit.
