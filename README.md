@@ -15,7 +15,7 @@ Web Crafting Classes
 > Economics & Personal Finance (VA)
 > Hands-on science activities
 > Khanmigo for educators
-
+https://youtu.be/i0bQ495vMBA?si=5H1U8xWOQ_6DHcJU ### BRUHHH!
 ----------------------------------------------------------------------
 
 A professional waitlist landing page for a startup that captures and stores potential user information while showcasing the company's value proposition.
